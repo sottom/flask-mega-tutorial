@@ -25,3 +25,6 @@ htmlcov/
 
 # venv
 venv
+
+# db
+app.db
